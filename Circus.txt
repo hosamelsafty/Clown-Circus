@@ -1,0 +1,10 @@
+INFO    2017-01-26 11:12:28,496 - be new 
+INFO    2017-01-26 11:12:28,511 - be old 
+INFO    2017-01-26 11:12:28,521 - be single 
+INFO    2017-01-26 11:12:28,532 - be new 
+INFO    2017-01-26 11:13:27,836 - New Game choosen
+INFO    2017-01-26 11:13:27,852 - Double Player
+INFO    2017-01-26 11:42:23,187 - New Game choosen
+INFO    2017-01-26 11:42:23,218 - Double Player
+INFO    2017-01-26 11:42:47,047 - New Game choosen
+INFO    2017-01-26 11:42:47,062 - Double Player
